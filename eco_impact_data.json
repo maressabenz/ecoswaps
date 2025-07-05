@@ -1,0 +1,302 @@
+[
+  {
+    "swap":"single-use plastic bag \u2192 reusable bag",
+    "unit":"1 bag",
+    "co2_saved_kg":0.02,
+    "source":"EPA 2023"
+  },
+  {
+    "swap":"plastic bottle (0.5L) \u2192 reusable bottle",
+    "unit":"1 bottle",
+    "co2_saved_kg":0.1,
+    "source":"EPA 2023"
+  },
+  {
+    "swap":"beef meal \u2192 veggie meal",
+    "unit":"1 meal",
+    "co2_saved_kg":3.0,
+    "source":"Our World in Data 2022"
+  },
+  {
+    "swap":"beef \u2192 chicken",
+    "unit":"1 kg",
+    "co2_saved_kg":27.0,
+    "source":"Our World in Data 2022"
+  },
+  {
+    "swap":"lamb \u2192 lentils",
+    "unit":"1 kg",
+    "co2_saved_kg":35.0,
+    "source":"Our World in Data 2022"
+  },
+  {
+    "swap":"dryer use \u2192 line drying",
+    "unit":"1 load",
+    "co2_saved_kg":2.0,
+    "source":"Carbon Trust 2021"
+  },
+  {
+    "swap":"car commute \u2192 bike",
+    "unit":"5 miles",
+    "co2_saved_kg":1.5,
+    "source":"EPA 2023"
+  },
+  {
+    "swap":"air travel \u2192 train",
+    "unit":"100 miles",
+    "co2_saved_kg":23.0,
+    "source":"EPA 2023"
+  },
+  {
+    "swap":"disposable coffee cup \u2192 reusable cup",
+    "unit":"1 cup",
+    "co2_saved_kg":0.1,
+    "source":"Carbon Trust 2021"
+  },
+  {
+    "swap":"paper towel \u2192 cloth towel",
+    "unit":"10 uses",
+    "co2_saved_kg":0.5,
+    "source":"EPA 2023"
+  },
+  {
+    "swap":"single-use plastic bag \u2192 reusable bag (variant 2)",
+    "unit":"1 bag",
+    "co2_saved_kg":0.02,
+    "source":"EPA 2023"
+  },
+  {
+    "swap":"plastic bottle (0.5L) \u2192 reusable bottle (variant 2)",
+    "unit":"1 bottle",
+    "co2_saved_kg":0.1,
+    "source":"EPA 2023"
+  },
+  {
+    "swap":"beef meal \u2192 veggie meal (variant 2)",
+    "unit":"1 meal",
+    "co2_saved_kg":3.0,
+    "source":"Our World in Data 2022"
+  },
+  {
+    "swap":"beef \u2192 chicken (variant 2)",
+    "unit":"1 kg",
+    "co2_saved_kg":27.0,
+    "source":"Our World in Data 2022"
+  },
+  {
+    "swap":"lamb \u2192 lentils (variant 2)",
+    "unit":"1 kg",
+    "co2_saved_kg":35.0,
+    "source":"Our World in Data 2022"
+  },
+  {
+    "swap":"dryer use \u2192 line drying (variant 2)",
+    "unit":"1 load",
+    "co2_saved_kg":2.0,
+    "source":"Carbon Trust 2021"
+  },
+  {
+    "swap":"car commute \u2192 bike (variant 2)",
+    "unit":"5 miles",
+    "co2_saved_kg":1.5,
+    "source":"EPA 2023"
+  },
+  {
+    "swap":"air travel \u2192 train (variant 2)",
+    "unit":"100 miles",
+    "co2_saved_kg":23.0,
+    "source":"EPA 2023"
+  },
+  {
+    "swap":"disposable coffee cup \u2192 reusable cup (variant 2)",
+    "unit":"1 cup",
+    "co2_saved_kg":0.1,
+    "source":"Carbon Trust 2021"
+  },
+  {
+    "swap":"paper towel \u2192 cloth towel (variant 2)",
+    "unit":"10 uses",
+    "co2_saved_kg":0.5,
+    "source":"EPA 2023"
+  },
+  {
+    "swap":"single-use plastic bag \u2192 reusable bag (variant 3)",
+    "unit":"1 bag",
+    "co2_saved_kg":0.02,
+    "source":"EPA 2023"
+  },
+  {
+    "swap":"plastic bottle (0.5L) \u2192 reusable bottle (variant 3)",
+    "unit":"1 bottle",
+    "co2_saved_kg":0.1,
+    "source":"EPA 2023"
+  },
+  {
+    "swap":"beef meal \u2192 veggie meal (variant 3)",
+    "unit":"1 meal",
+    "co2_saved_kg":3.0,
+    "source":"Our World in Data 2022"
+  },
+  {
+    "swap":"beef \u2192 chicken (variant 3)",
+    "unit":"1 kg",
+    "co2_saved_kg":27.0,
+    "source":"Our World in Data 2022"
+  },
+  {
+    "swap":"lamb \u2192 lentils (variant 3)",
+    "unit":"1 kg",
+    "co2_saved_kg":35.0,
+    "source":"Our World in Data 2022"
+  },
+  {
+    "swap":"dryer use \u2192 line drying (variant 3)",
+    "unit":"1 load",
+    "co2_saved_kg":2.0,
+    "source":"Carbon Trust 2021"
+  },
+  {
+    "swap":"car commute \u2192 bike (variant 3)",
+    "unit":"5 miles",
+    "co2_saved_kg":1.5,
+    "source":"EPA 2023"
+  },
+  {
+    "swap":"air travel \u2192 train (variant 3)",
+    "unit":"100 miles",
+    "co2_saved_kg":23.0,
+    "source":"EPA 2023"
+  },
+  {
+    "swap":"disposable coffee cup \u2192 reusable cup (variant 3)",
+    "unit":"1 cup",
+    "co2_saved_kg":0.1,
+    "source":"Carbon Trust 2021"
+  },
+  {
+    "swap":"paper towel \u2192 cloth towel (variant 3)",
+    "unit":"10 uses",
+    "co2_saved_kg":0.5,
+    "source":"EPA 2023"
+  },
+  {
+    "swap":"single-use plastic bag \u2192 reusable bag (variant 4)",
+    "unit":"1 bag",
+    "co2_saved_kg":0.02,
+    "source":"EPA 2023"
+  },
+  {
+    "swap":"plastic bottle (0.5L) \u2192 reusable bottle (variant 4)",
+    "unit":"1 bottle",
+    "co2_saved_kg":0.1,
+    "source":"EPA 2023"
+  },
+  {
+    "swap":"beef meal \u2192 veggie meal (variant 4)",
+    "unit":"1 meal",
+    "co2_saved_kg":3.0,
+    "source":"Our World in Data 2022"
+  },
+  {
+    "swap":"beef \u2192 chicken (variant 4)",
+    "unit":"1 kg",
+    "co2_saved_kg":27.0,
+    "source":"Our World in Data 2022"
+  },
+  {
+    "swap":"lamb \u2192 lentils (variant 4)",
+    "unit":"1 kg",
+    "co2_saved_kg":35.0,
+    "source":"Our World in Data 2022"
+  },
+  {
+    "swap":"dryer use \u2192 line drying (variant 4)",
+    "unit":"1 load",
+    "co2_saved_kg":2.0,
+    "source":"Carbon Trust 2021"
+  },
+  {
+    "swap":"car commute \u2192 bike (variant 4)",
+    "unit":"5 miles",
+    "co2_saved_kg":1.5,
+    "source":"EPA 2023"
+  },
+  {
+    "swap":"air travel \u2192 train (variant 4)",
+    "unit":"100 miles",
+    "co2_saved_kg":23.0,
+    "source":"EPA 2023"
+  },
+  {
+    "swap":"disposable coffee cup \u2192 reusable cup (variant 4)",
+    "unit":"1 cup",
+    "co2_saved_kg":0.1,
+    "source":"Carbon Trust 2021"
+  },
+  {
+    "swap":"paper towel \u2192 cloth towel (variant 4)",
+    "unit":"10 uses",
+    "co2_saved_kg":0.5,
+    "source":"EPA 2023"
+  },
+  {
+    "swap":"single-use plastic bag \u2192 reusable bag (variant 5)",
+    "unit":"1 bag",
+    "co2_saved_kg":0.02,
+    "source":"EPA 2023"
+  },
+  {
+    "swap":"plastic bottle (0.5L) \u2192 reusable bottle (variant 5)",
+    "unit":"1 bottle",
+    "co2_saved_kg":0.1,
+    "source":"EPA 2023"
+  },
+  {
+    "swap":"beef meal \u2192 veggie meal (variant 5)",
+    "unit":"1 meal",
+    "co2_saved_kg":3.0,
+    "source":"Our World in Data 2022"
+  },
+  {
+    "swap":"beef \u2192 chicken (variant 5)",
+    "unit":"1 kg",
+    "co2_saved_kg":27.0,
+    "source":"Our World in Data 2022"
+  },
+  {
+    "swap":"lamb \u2192 lentils (variant 5)",
+    "unit":"1 kg",
+    "co2_saved_kg":35.0,
+    "source":"Our World in Data 2022"
+  },
+  {
+    "swap":"dryer use \u2192 line drying (variant 5)",
+    "unit":"1 load",
+    "co2_saved_kg":2.0,
+    "source":"Carbon Trust 2021"
+  },
+  {
+    "swap":"car commute \u2192 bike (variant 5)",
+    "unit":"5 miles",
+    "co2_saved_kg":1.5,
+    "source":"EPA 2023"
+  },
+  {
+    "swap":"air travel \u2192 train (variant 5)",
+    "unit":"100 miles",
+    "co2_saved_kg":23.0,
+    "source":"EPA 2023"
+  },
+  {
+    "swap":"disposable coffee cup \u2192 reusable cup (variant 5)",
+    "unit":"1 cup",
+    "co2_saved_kg":0.1,
+    "source":"Carbon Trust 2021"
+  },
+  {
+    "swap":"paper towel \u2192 cloth towel (variant 5)",
+    "unit":"10 uses",
+    "co2_saved_kg":0.5,
+    "source":"EPA 2023"
+  }
+]
