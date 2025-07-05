@@ -5,8 +5,8 @@ import pandas as pd
 # Load the data
 @st.cache_data
 def load_data():
-    url = 'https://raw.githubusercontent.com/your-username/your-repo/main/eco_impact_data.csv'
-    df = pd.read_csv(url)
+    url = 'https://raw.githubusercontent.com/maressabenz/ecoswaps/main/eco_impact_data.csv'
+df = pd.read_csv("eco_impact_data.csv")
     return df
 
 df = load_data()
