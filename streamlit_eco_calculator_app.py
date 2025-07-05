@@ -4,7 +4,7 @@ import pandas as pd
 # Load the data (replace the URL below with your actual raw GitHub CSV URL once uploaded)
 @st.cache_data
 def load_data():
-    url = 'https://raw.githubusercontent.com/maressa-benz/eco-swaps/main/eco_impact_data.csv'
+    url = 'https://raw.githubusercontent.com/maressabenz/ecoswaps/refs/heads/main/eco_impact_data.csv'
     df = pd.read_csv(url)
     return df
 
