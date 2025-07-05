@@ -9,7 +9,6 @@ def load_data():
 df = pd.read_csv("eco_impact_data.csv")
     return df
 df = load_data()
-
 st.title("🌱 Eco Impact Calculator")
 st.write("This tool estimates CO2 savings for common eco-friendly swaps. Estimates are based on reputable data sources (EPA, Our World in Data, Carbon Trust, etc.).")
 
