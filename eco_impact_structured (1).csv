@@ -1,0 +1,11 @@
+swap,unit,co2_saved_kg,source,base_equivalent_value,equivalent_unit,equivalent_desc
+🔥 Dryer → 🌞 Line Drying,1 load,2.0,Carbon Trust 2021,80.0,hours lightbulb off,Keeping a lightbulb off
+🛍️ Plastic Bag → ♻️ Reusable Bag,1 bag,0.02,EPA 2023,1.0,plastic bag avoided,Skipping plastic bag production
+🚗 Car Commute → 🚲 Bike,5 miles,1.5,EPA 2023,4.0,miles of gas car travel avoided,Avoiding gas car travel
+🥩 Beef Meal → 🥗 Veggie Meal,1 meal,3.0,Our World in Data 2022,0.33,day's average US emissions avoided,Skipping average daily emissions
+💧 Plastic Bottle → Reusable Bottle,1 bottle,0.1,EPA 2023,1.0,plastic bottle avoided,Skipping plastic bottle production
+☕ Disposable Coffee Cup → Reusable Cup,1 cup,0.1,Carbon Trust 2021,1.0,disposable coffee cup avoided,Skipping coffee cup production
+✈️ Air Travel → 🚆 Train,100 miles,23.0,EPA 2023,1.0,short flight avoided,Skipping a short flight
+🧻 Paper Towel → Cloth Towel,10 uses,0.5,EPA 2023,10.0,paper towel uses avoided,Skipping paper towel use
+🍖 Beef → 🍗 Chicken,1 kg,27.0,Our World in Data 2022,70.0,miles of driving avoided,Skipping gas car driving
+🐑 Lamb → 🌱 Lentils,1 kg,35.0,Our World in Data 2022,4000.0,smartphone charges avoided,Skipping smartphone charges
